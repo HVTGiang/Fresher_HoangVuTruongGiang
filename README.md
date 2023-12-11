@@ -5,3 +5,6 @@
 - Conflict handling: https://github.com/HVTGiang/git-handling-conflict
 - Git advance: https://github.com/HVTGiang/forked-thanh-repo
 - Code convention: https://github.com/HVTGiang/git-coding-convention
+
+## Week 2:
+- Vue practise - Pokemon game: https://github.com/HVTGiang/vue-pokemon-game
