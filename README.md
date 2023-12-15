@@ -8,3 +8,6 @@
 
 ## Week 2:
 - Vue practise - Pokemon game: https://github.com/HVTGiang/vue-pokemon-game
+- 
+## Week 3:
+- Vue practise - Shopping cart: https://github.com/HVTGiang/vue-shopping-cart
